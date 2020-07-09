@@ -59,6 +59,8 @@ function resetWatch(){
     minute = 0;
     second = 0;
     millisecond = 0;
+
+    clearInterval(timer);
 }
 
 function addZero(time) {
