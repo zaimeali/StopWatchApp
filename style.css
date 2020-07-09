@@ -5,6 +5,15 @@
     user-select: none; /* Standard */
 }
 
+body{
+    background: url('./img/bg.jpg');
+}
+
+.icon-image{
+    width: 48px;
+    margin-top: -16px !important;
+}
+
 .br-style{
     border-radius: 5px;
 }
